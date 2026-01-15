@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! Soy Matías Hanza 👋
 
-<!--
-**matihg18/matihg18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante avanzado de Ingeniería en Sistemas de Información con interés en el desarrollo de software y aspirante a DevOps Engineer.
 
-Here are some ideas to get you started:
+` `
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+---
+* Lenguajes: Pascal, Python, C# (.NET/ABP Framework).
+* Bases de datos: SQL (Intermedio).
+* Experiencia trabajando en plataformas Arduino y Raspberry Pi.
+* Sistema Operativo: Linux (Debian/Ubuntu), Bash Scripting.
+
+` `
+
+## 🚀 En camino a DevOps (Learning Path)
+---
+Actualmente me encuentro en proceso de incorporar herramientas:
+* **Contenerización**
+* **CI/CD**
+* **Cloud & IaC**
+* **Monitoring/Logging**
+  
+` `
+
+## 📂 Proyectos Destacados
+---
+* **[Yarará - Intérprete de Lenguaje Propio](https://github.com/matihg18/Yarara-Custom-Language-Interpreter):** Un intérprete desarrollado en Pascal para un lenguaje original (Yarará).
+* **[pi-water-monitor](https://github.com/matihg18/pi-water-monitor):** Un sistema de monitoreo de parámetros de agua desarrollado en la plataforma Arduino.
+
