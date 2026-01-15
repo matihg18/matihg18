@@ -4,7 +4,6 @@ Estudiante avanzado de Ingeniería en Sistemas de Información con interés en e
 
 ## 🛠️ Tecnologías y herramientas
 
----
 
 * Lenguajes: Pascal, Python, C# (.NET/ABP Framework).
 * Bases de datos: SQL (Intermedio).
@@ -13,7 +12,7 @@ Estudiante avanzado de Ingeniería en Sistemas de Información con interés en e
 
 ## 🚀 En camino a DevOps (Learning Path)
 
----
+
 
 Actualmente me encuentro en proceso de incorporar herramientas de:
 * **Contenerización**
@@ -23,7 +22,7 @@ Actualmente me encuentro en proceso de incorporar herramientas de:
 
 ## 📂 Proyectos Destacados
 
----
+
 
 * **[Yarará - Intérprete de Lenguaje Propio](https://github.com/matihg18/Yarara-Custom-Language-Interpreter):** Un intérprete desarrollado en Pascal para un lenguaje original (Yarará).
 * **[pi-water-monitor](https://github.com/matihg18/pi-water-monitor):** Un sistema de monitoreo de parámetros de agua desarrollado en la plataforma Arduino.
